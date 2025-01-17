@@ -22,10 +22,10 @@ img {
 h1 {
   font-size: 1.375rem;
   text-align: center;
-  margin-top: 1.5em;
+  margin-top: 1.5rem;
   font-weight: 700;
   line-height: 1.2;
-  margin-bottom: 1em;
+  margin-bottom: 1rem;
   color: #1f314f;
 }
 
@@ -36,6 +36,8 @@ p {
   letter-spacing: 0.2px;
   text-align: center;
   color: #68778d;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 .qrcode {
